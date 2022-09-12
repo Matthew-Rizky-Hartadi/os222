@@ -10,4 +10,8 @@ ZCZC WEEK00 10 L05 QUIZ
 ZCZC WEEK00 60 L10 week 0 assignments
 ZCZC WEEK01 15 L05 QUIZ
 ZCZC WEEK01 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
-ZCZC WEEK01 200 L11 week 1 assignments
+ZCZC WEEK01 200 L11 Setting up VIrtualBox and PUTTY
+ZCZC WEEK01 15 L11 Setting up links.md and index.md
+ZCZC WEEK01 10 L41 Updating TXT/mylog.txt
+ZCZC WEEK01 10 L11 creating TXT/myupdate.txt
+ZCZC WEEK01 30 L61 reinstalling VirtualBox
