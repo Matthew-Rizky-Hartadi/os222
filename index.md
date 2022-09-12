@@ -8,11 +8,9 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
-<br><br>
-This is the way!
+This is {{ site.title }} and I am {{ site.name }}.
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }}
 <hr>
 <br>
