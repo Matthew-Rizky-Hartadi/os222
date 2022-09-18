@@ -1,17 +1,21 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # Logcode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC WEEK00 20 L03 Github Related
-ZCZC WEEK00 100 L02 Zoom meeting
-ZCZC WEEK00 100 L02 Zoom meeting
-ZCZC WEEK00 10 L41 TXT/mylog.txt related
-ZCZC WEEK00 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
-ZCZC WEEK00 10 L05 QUIZ
-ZCZC WEEK00 60 L10 week 0 assignments
-ZCZC WEEK01 15 L05 QUIZ
-ZCZC WEEK01 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
-ZCZC WEEK01 200 L11 Setting up VIrtualBox and PUTTY
-ZCZC WEEK01 15 L11 Setting up links.md and index.md
-ZCZC WEEK01 10 L41 Updating TXT/mylog.txt
-ZCZC WEEK01 10 L11 creating TXT/myupdate.txt
-ZCZC WEEK01 30 L61 reinstalling VirtualBox
+ZCZC W00 20 L03 Github Related
+ZCZC W00 100 L02 Zoom meeting
+ZCZC W00 100 L02 Zoom meeting
+ZCZC W00 10 L41 TXT/mylog.txt related
+ZCZC W00 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W00 10 L05 QUIZ
+ZCZC W00 60 L10 week 0 assignments
+ZCZC W01 15 L05 QUIZ
+ZCZC W01 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W01 200 L11 Setting up VIrtualBox and PUTTY
+ZCZC W01 15 L11 Setting up links.md and index.md
+ZCZC W01 10 L41 Updating TXT/mylog.txt
+ZCZC W01 10 L11 creating TXT/myupdate.txt
+ZCZC W01 30 L61 reinstalling VirtualBox
+ZCZC W02 100 L02 Thursday Synchronous Zoom Meeting
+ZCZC W02 40 L12 Assignment 2, installing the requirements for using GNUPG
+ZCZC W02 200 L12 Assignment 2
+ZCZC W02 35 L08 OS Chat related (Line) with friend on weekly assignment 2
