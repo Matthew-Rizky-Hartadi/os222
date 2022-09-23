@@ -28,7 +28,14 @@ Youtube playlist containing videos from Udacity. There are 14 short videos expla
 5. [Basic Linux Commands](https://linuxopsys.com/topics/basic-linux-commands)<br>
 This article explains the most common basic linux commands that are frequently used. This includes commands such as ls, cd, mkdir, cat, df, and many more.
 
+6. [Linux Hardening, Privacy, and Security guide](https://www.youtube.com/watch?v=Sa0KqbpLye4)<br>
+Youtube video containing explanation about hardening Linux, security, privacy, anonymity, passwords, authentication, VPNs, biometrics, search engines, browsers, Tor, 2FA, virtual machines, Linux, communication, sandboxing, and more.
 
+7. [Introduction to Bash Scripts](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)<br>
+Article that covers about Bash Scripting. It explains on defining waht bash script is exactly, how do you run bash script, how does bash script work, and also the importance of formatiing in basch scripting.
+
+8. [Virtual Machines](https://www.youtube.com/watch?v=wX75Z-4MEoM)<br>
+Youtube video explaining about Virtual Machines. The video covers on what is a virtual machine, installing and creating Virtual Machines.
 
 <br>
 <hr>
