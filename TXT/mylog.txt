@@ -26,3 +26,7 @@ ZCZC W02 5 L44 Running myscript.sh for the second time to update
 ZCZC W03 110 L13 Week03 readings and demo (Operating System Concepts, 10th Edition, 2018, chapter 13, 14, 15)
 ZCZC W03 10 L13 Trying previous midterm problems
 ZCZC W03 30 L13 Creating a new Virtual Harddisk
+ZCZC W03 20 L13 Solbing th eproblem with the public key inside myscript.sh
+ZCZC W03 5 L26 enrypting a key
+ZCZC W03 15 L26 reviewing 10 links to update myrank.txt
+ZCZC W03 10 L64 Helping a friend in OS problem
