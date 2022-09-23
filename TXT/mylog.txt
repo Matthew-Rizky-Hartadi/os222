@@ -23,3 +23,6 @@ ZCZC W02 20 L41 Updating mylog.txt
 ZCZC W02 15 L42 Updating mypubkey.txt 
 ZCZC W02 15 L43 reviewing links and making myrank.txt
 ZCZC W02 5 L44 Running myscript.sh for the second time to update
+ZCZC W03 110 L13 Week03 readings and demo (Operating System Concepts, 10th Edition, 2018, chapter 13, 14, 15)
+ZCZC W03 10 L13 Trying previous midterm problems
+ZCZC W03 30 L13 Creating a new Virtual Harddisk
