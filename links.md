@@ -24,7 +24,7 @@ Youtube video on Regex. The video explains all about Regular Expression and how 
 3. [OS Course Website](https://os.vlsm.org/)<br>
 Website containing the course. This website includes slides, materials, weekly assignments as well as resources needed of OS Course.
 
-##WEEK 02
+## WEEK 02
 
 4. [Udacity: OS Visual Metaphors](https://goo.gl/HaUk5g)<br>
 Youtube playlist containing videos from Udacity. There are 14 short videos explaining on Visual Metaphors in Operating System.
