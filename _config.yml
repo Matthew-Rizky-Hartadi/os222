@@ -5,7 +5,7 @@ name:        "Matthew Rizky Hartadi"
 title:       "OS222: Operating Systems 2022-2"
 githublink:  "https://github.com/Matthew-Rizky-Hartadi/os222/"
 myloglink:   "/TXT/mylog.txt"
-tarballlink: "/TXT/myW03.tar.bz2.asc"
+tarballlink: "https://raw.githubusercontent.com/Matthew-Rizky-Hartadi/os222/master/TXT/myW03.tar.bz2.asc"
 encoding:    UTF-8
 markdown:    kramdown
 input:       GFM
