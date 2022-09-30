@@ -35,3 +35,4 @@ ZCZC W04 10 L43 updating myrank.txt week 04
 ZCZC W04 20 L14 Week 4 readings (Operating System Concepts, 10th Edition, 2018, chapter 9)
 ZCZC W04 10 L14 running myscript.sh week 4
 ZCZC W04 20 L41 updating mylog.txt
+ZCZC W04 100 L00 Offline lecture
