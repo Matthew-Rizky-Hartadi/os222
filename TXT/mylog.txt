@@ -30,3 +30,8 @@ ZCZC W03 20 L13 Solbing th eproblem with the public key inside myscript.sh
 ZCZC W03 5 L26 enrypting a key
 ZCZC W03 15 L26 reviewing 10 links to update myrank.txt
 ZCZC W03 10 L64 Helping a friend in OS problem
+ZCZC W04 15 L14 downloading script week 04
+ZCZC W04 10 L43 updating myrank.txt week 04
+ZCZC W04 20 L14 Week 4 readings (Operating System Concepts, 10th Edition, 2018, chapter 9)
+ZCZC W04 10 L14 running myscript.sh week 4
+ZCZC W04 20 L41 updating mylog.txt
