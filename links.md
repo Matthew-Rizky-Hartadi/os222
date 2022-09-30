@@ -46,6 +46,17 @@ Youtube video explaining about Virtual Machines. The video covers on what is a v
 9. [Linux for Hackers](https://www.youtube.com/watch?v=VbEx7B_PTOE)<br>
 A video of the first episode explaining about Linux for hacking purposes.
 
+## WEEK 04
+
+10. [Shell Scripting Tutoria](https://www.guru99.com/introduction-to-shell-scripting.html)<br>
+An article that covers about shell scriptiing. It explains what is shell in general, types of shell (which includes Bourne shell and C shell), how to write shell script in Linux/Unix, and shell variables.
+
+11. [Memory Management in Operating System](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+A website containing information on memory management. It covers topics such as Process Address Space, dynamic and static loading, memory allocation, Fragmentation, Paging, and many more. 
+
+12. [C Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+A youtube video on a course of C programming language. The tutorial covers on how to code C in windows or mac, variables, loops, if statements, arrays, functions, also reading and writing file, and many more.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
