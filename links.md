@@ -57,6 +57,17 @@ A website containing information on memory management. It covers topics such as 
 12. [C Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
 A youtube video on a course of C programming language. The tutorial covers on how to code C in windows or mac, variables, loops, if statements, arrays, functions, also reading and writing file, and many more.
 
+## WEEK 05
+
+13. [Linux Virtual Memory](https://www.makeuseof.com/virtual-memory-on-linux/)<br>
+An article explaining about virtual memory in Linux. It covers topics on the definition of virtual memory, how to set up linux virtual memory (linux swap partitions), and also swap space of virtual memory.
+
+14. [Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0)<br>
+An MIT open course on the basics of virtual memory. It explains paging, demand paging, single page map design, and virtual to physical translation.
+
+15. [Page Fault and Memory Swapping](https://www.site24x7.com/learn/linux/page-faults-memory-swapping.html)<br>
+An article explaining about page faults and memory swapping, and how to troubleshoot them. It covers about the definition of page fault, types of page faults, memory swap in/out, and how to address page faults and swaps
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
