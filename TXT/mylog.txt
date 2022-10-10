@@ -26,7 +26,7 @@ ZCZC W02 5 L44 Running myscript.sh for the second time to update
 ZCZC W03 110 L13 Week03 readings and demo (Operating System Concepts, 10th Edition, 2018, chapter 13, 14, 15)
 ZCZC W03 10 L13 Trying previous midterm problems
 ZCZC W03 30 L13 Creating a new Virtual Harddisk
-ZCZC W03 20 L13 Solbing th eproblem with the public key inside myscript.sh
+ZCZC W03 20 L13 Solbing th eproblem with the public key inside myscript.sh 
 ZCZC W03 5 L26 enrypting a key
 ZCZC W03 15 L26 reviewing 10 links to update myrank.txt
 ZCZC W03 10 L64 Helping a friend in OS problem
@@ -36,3 +36,12 @@ ZCZC W04 20 L14 Week 4 readings (Operating System Concepts, 10th Edition, 2018, 
 ZCZC W04 10 L14 running myscript.sh week 4
 ZCZC W04 20 L41 updating mylog.txt
 ZCZC W04 100 L00 Offline lecture
+ZCZC W05 100 L02 Zoom meeting for OS Class KI
+ZCZC W05 100 L00 Offline class for OS Class KI
+ZCZC W05 50 L15 Doing the weekly assignment of the week 5 tarball
+ZCZC W05 10 L05 Doing the Quiz 2 Week 5
+ZCZC W05 10 L05 Doing the Quiz 1 Week 5
+ZCZC W05 15 L43 Updating myrank.txt
+ZCZC W05 60 L29 Fixing laptop problems
+ZCZC W05 15 L41 Updting mylog.txt
+ZCZC W05 10 L44 Running myscript.sh for Week 5
