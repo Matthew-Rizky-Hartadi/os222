@@ -68,6 +68,18 @@ An MIT open course on the basics of virtual memory. It explains paging, demand p
 15. [Page Fault and Memory Swapping](https://www.site24x7.com/learn/linux/page-faults-memory-swapping.html)<br>
 An article explaining about page faults and memory swapping, and how to troubleshoot them. It covers about the definition of page fault, types of page faults, memory swap in/out, and how to address page faults and swaps
 
+## WEEK 05
+
+16. [Concepts in Multicore Programming](https://www.mathworks.com/help/simulink/ug/concepts-in-multicore-programming.html)
+A web explaining concepts in multicore programming which includes basics of multicore programming, types of parallelism, system partitioning for parallelism, and also challenges in multicore programming.
+
+17. [What is Multithreading?](https://totalview.io/blog/multithreading-multithreaded-applications)
+Article explaining about multithreading and its use as well as the common issues and how to debug multithreaded application.
+
+18. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
+An article explaining about IPC which processes can communicate through shared memory and message passing with some examples.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
