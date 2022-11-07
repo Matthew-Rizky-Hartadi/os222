@@ -70,13 +70,13 @@ An article explaining about page faults and memory swapping, and how to troubles
 
 ## WEEK 06
 
-16. [Concepts in Multicore Programming](https://www.mathworks.com/help/simulink/ug/concepts-in-multicore-programming.html)
+16. [Concepts in Multicore Programming](https://www.mathworks.com/help/simulink/ug/concepts-in-multicore-programming.html)<br>
 A web explaining concepts in multicore programming which includes basics of multicore programming, types of parallelism, system partitioning for parallelism, and also challenges in multicore programming.
 
-17. [What is Multithreading?](https://totalview.io/blog/multithreading-multithreaded-applications)
+17. [What is Multithreading?](https://totalview.io/blog/multithreading-multithreaded-applications)<br>
 Article explaining about multithreading and its use as well as the common issues and how to debug multithreaded application.
 
-18. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
+18. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)<br>
 An article explaining about IPC which processes can communicate through shared memory and message passing with some examples.
 
 
