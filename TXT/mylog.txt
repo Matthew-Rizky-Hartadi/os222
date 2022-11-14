@@ -10,7 +10,7 @@ ZCZC W00 10 L05 QUIZ
 ZCZC W00 60 L10 week 0 assignments
 ZCZC W01 15 L05 QUIZ
 ZCZC W01 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
-ZCZC W01 200 L11 Setting up VIrtualBox and PUTTY
+ZCZC W01 200 L11 Setting up VirtualBox and PUTTY
 ZCZC W01 15 L11 Setting up links.md and index.md
 ZCZC W01 10 L41 Updating TXT/mylog.txt
 ZCZC W01 10 L11 creating TXT/myupdate.txt
@@ -46,9 +46,15 @@ ZCZC W05 60 L29 Fixing laptop problems
 ZCZC W05 15 L41 Updating mylog.txt
 ZCZC W05 10 L44 Running myscript.sh for Week 5
 ZCZC W06 50 L16 Doing weekly assignment of week 6 
-ZCZC W06 10 L05 Doing the Quiz 2 Week 5
-ZCZC W06 10 L05 Doing the Quiz 1 Week 5
+ZCZC W06 10 L05 Doing the Quiz 2 Week 6
+ZCZC W06 10 L05 Doing the Quiz 1 Week 6
 ZCZC W06 15 L43 Updating myrank.txt
 ZCZC W06 15 L41 Updating mylog.txt
-ZVZC W06 15 L05 Doing the Pop Quiz for week 6
-
+ZCZC W06 15 L05 Doing the Pop Quiz for week 6
+ZCZC W07 80 L17 Doing weekly assignment of week 7
+ZCZC W07 15 L43 Updating myrank.txt
+ZCZC W07 10 L05 Doing the Quiz 2 Week 7
+ZCZC W07 10 L05 Doing the Quiz 1 Week 7
+ZCZC W07 15 L41 Updating mylog.txt
+ZCZC W07 15 L41 Updating mylog.txt
+ZCZC W07 10 L44 Running myscript.sh for Week 7
