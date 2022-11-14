@@ -48,7 +48,7 @@ A video of the first episode explaining about Linux for hacking purposes.
 
 ## WEEK 04
 
-10. [Shell Scripting Tutoria](https://www.guru99.com/introduction-to-shell-scripting.html)<br>
+10. [Shell Scripting Tutorial](https://www.guru99.com/introduction-to-shell-scripting.html)<br>
 An article that covers about shell scriptiing. It explains what is shell in general, types of shell (which includes Bourne shell and C shell), how to write shell script in Linux/Unix, and shell variables.
 
 11. [Memory Management in Operating System](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
@@ -79,6 +79,16 @@ Article explaining about multithreading and its use as well as the common issues
 18. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)<br>
 An article explaining about IPC which processes can communicate through shared memory and message passing with some examples.
 
+## WEEK 07
+
+19. [Deaclock in Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os/)<br>
+This article defines and explains a deadlock and the necessary conditions for a deadlock situation to occur, reflects on the various methods of handling deadlocks, key differences between a deadlock and starvation, and the advantages and disadvantages of a deadlock.
+
+20. [Process Synchronization in Operating System](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
+This article discusses the solutions to synchronization, including Semaphores, Mutex, Synchronization Hardware, and Peterson's solution.
+
+21. [Dining Philosopher's Problem](https://www.tutorialspoint.com/dining-philosophers-problem-dpp#:~:text=The%20dining%20philosophers%20problem%20states,and%20left%20chopstick%20to%20eat.)<br>
+The dining philosophers problem states that there are 5 philosophers sharing a circular table and they eat and think alternatively. There is a bowl of rice for each of the philosophers and 5 chopsticks. A philosopher needs both their right and left chopstick to eat. A hungry philosopher may only eat if there are both chopsticks available.Otherwise a philosopher puts down their chopstick and begin thinking again.
 
 <br>
 <hr>
