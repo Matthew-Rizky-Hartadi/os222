@@ -90,6 +90,15 @@ This article discusses the solutions to synchronization, including Semaphores, M
 21. [Dining Philosopher's Problem](https://www.tutorialspoint.com/dining-philosophers-problem-dpp#:~:text=The%20dining%20philosophers%20problem%20states,and%20left%20chopstick%20to%20eat.)<br>
 The dining philosophers problem states that there are 5 philosophers sharing a circular table and they eat and think alternatively. There is a bowl of rice for each of the philosophers and 5 chopsticks. A philosopher needs both their right and left chopstick to eat. A hungry philosopher may only eat if there are both chopsticks available.Otherwise a philosopher puts down their chopstick and begin thinking again.
 
+22. [Linux From Scratch](https://www.linuxfromscratch.org/)
+The official website of Linux From Scratch providing step-by-step instructions on how to do it.
+
+23. [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)
+Article explaining about Approaches to Multiple-Processor Scheduling, Processor Affinity, Load Balancing, and many more.
+
+24. [Scheduling in Operating System](https://binaryterms.com/scheduling-in-operating-system.html#:~:text=Scheduling%20in%20operating%20system%20is,some%20or%20the%20other%20process.)
+Article about what is scheduling and its need, scheduling queue, types of scheduler, scheduling criteria and scheduling algorithm.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
