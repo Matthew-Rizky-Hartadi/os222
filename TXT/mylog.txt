@@ -60,7 +60,15 @@ ZCZC W07 15 L41 Updating mylog.txt
 ZCZC W07 10 L44 Running myscript.sh for Week 7
 ZCZC W08 300 L17 Doing weekly assignment of week 8
 ZCZC W08 15 L43 Updating myrank.txt
-ZCZC W08 10 L05 Doing the Quiz 2 Week 8
+ZCZC W08 15 L05 Doing the Quiz 2 Week 8
 ZCZC W08 10 L05 Doing the Quiz 1 Week 8
 ZCZC W08 15 L41 Updating mylog.txt
 ZCZC W08 10 L44 Running myscript.sh for Week 8
+ZCZC W08 5 L03 Updating myupdate.txt
+ZCZC W09 300 L17 Doing weekly assignment of week 9
+ZCZC W09 15 L43 Updating myrank.txt
+ZCZC W09 15 L05 Doing the Quiz 2 Week 9
+ZCZC W09 10 L05 Doing the Quiz 1 Week 9
+ZCZC W09 15 L41 Updating mylog.txt
+ZCZC W09 10 L44 Running myscript.sh for Week 9
+ZCZC W09 5 L03 Updating myupdate.txt
