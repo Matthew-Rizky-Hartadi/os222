@@ -92,24 +92,24 @@ The dining philosophers problem states that there are 5 philosophers sharing a c
 
 ## WEEK 08
 
-22. [Linux From Scratch](https://www.linuxfromscratch.org/)
+22. [Linux From Scratch](https://www.linuxfromscratch.org/)<br>
 The official website of Linux From Scratch providing step-by-step instructions on how to do it.
 
-23. [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)
+23. [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
 Article explaining about Approaches to Multiple-Processor Scheduling, Processor Affinity, Load Balancing, and many more.
 
-24. [Scheduling in Operating System](https://binaryterms.com/scheduling-in-operating-system.html#:~:text=Scheduling%20in%20operating%20system%20is,some%20or%20the%20other%20process.)
+24. [Scheduling in Operating System](https://binaryterms.com/scheduling-in-operating-system.html#:~:text=Scheduling%20in%20operating%20system%20is,some%20or%20the%20other%20process.)<br>
 Article about what is scheduling and its need, scheduling queue, types of scheduler, scheduling criteria and scheduling algorithm.
 
 ## WEEK 09
 
-25. [SSD VS HDD](https://www.intel.com/content/www/us/en/products/docs/memory-storage/solid-state-drives/ssd-vs-hdd.html)
+25. [SSD VS HDD](https://www.intel.com/content/www/us/en/products/docs/memory-storage/solid-state-drives/ssd-vs-hdd.html)<br>
 Article explaining on HDD and SDD, and comparing them in terms of speed, endurance, and the overall comparison of the two.
 
-26. [Storage Management](https://www.geeksforgeeks.org/storage-management/)
+26. [Storage Management](https://www.geeksforgeeks.org/storage-management/)<br>
 Article explaining about the storage management where it is defined as it refers to the management of the data storage equipment’s that are used to store the user/computer generated data.
 
-27. [Swap-Space Management in Operating System](https://www.geeksforgeeks.org/swap-space-management-in-operating-system/)
+27. [Swap-Space Management in Operating System](https://www.geeksforgeeks.org/swap-space-management-in-operating-system/)<br>
 Article explaining about swap space management. Swapping is a memory management technique used in multi-programming to increase the number of processes sharing the CPU.
 
 <br>
