@@ -112,6 +112,16 @@ Article explaining about the storage management where it is defined as it refers
 27. [Swap-Space Management in Operating System](https://www.geeksforgeeks.org/swap-space-management-in-operating-system/)<br>
 Article explaining about swap space management. Swapping is a memory management technique used in multi-programming to increase the number of processes sharing the CPU.
 
+## WEEK 10
+28.[Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm)
+Article explaining about the I/O system in operating system in the hardware side.
+
+29.[C - File I/O](https://www.tutorialspoint.com/cprogramming/c_file_io.htm)
+Article explaining about how to create, open, close text or binary files for their data storage in C.
+
+20.[Operating System - I/O Softwares](https://www.tutorialspoint.com/operating_system/os_io_software.htm)
+Article explaining about the I/O system in operating system in the software side.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
